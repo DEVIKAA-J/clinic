@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-z0+!$)6=@)(@^i6!2cx3fkjlhtcrsk%-uh_=sw04umekibc)19
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://clinic-c4tg.onrender.com',
+    'clinic-c4tg.onrender.com',
+    'localhost',
+    '127.0.0.1',
 ]
 
 
